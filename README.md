@@ -2,7 +2,7 @@
 
 Learn a technology from **real GitHub repositories**: discover three ranked repos with Gemini, get a structured overview of the one you pick, then ask **file-grounded questions** about its code (LangChain + Gemini + GitHub REST).
 
-📚 **Documentation:** [`docs/`](docs/README.md) — purpose, dependencies, how to run, hurdles, roadmap.
+📚 **Documentation:** [`docs/`](docs/README.md) — purpose, **architecture & flow**, dependencies, how to run, hurdles, roadmap.
 
 ## Project goal
 
